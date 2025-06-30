@@ -1,4 +1,4 @@
-# 🎵 Music Player Website
+🎵 Music Player Website
 
 A sleek and minimalistic music player web application built using **React.js**. This app allows users to listen to a collection of music tunes with intuitive controls like play, pause, and skip.
 
@@ -8,7 +8,7 @@ A sleek and minimalistic music player web application built using **React.js**. 
 - 🔊 Audio control with smooth UI interaction
 - 📱 Fully responsive design for all screen sizes
 - ⚛️ Built using functional components and React Hooks
-- 💡 Easy to customize and extend with your own tunes
+
 
 ## 🖼️ Preview
 
