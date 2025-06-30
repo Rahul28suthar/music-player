@@ -1,4 +1,5 @@
-#🎵 Music Player Website
+# 🎵 Music Player Website
+
 
 A sleek and minimalistic music player web application built using **React.js**. This app allows users to listen to a collection of music tunes with intuitive controls like play, pause, and skip.
 
